@@ -1,0 +1,20 @@
+.site-global-nav {
+	display: flex;
+	/* justify-content: space-between; */
+	gap: 10px;
+	grid-area: nav;
+	padding: 0 7px;
+	background: #28c;
+	color: #fff;
+}
+.site-global-nav-menu {
+	display: flex;
+}
+.site-global-nav-menu > li ~ li::before {
+	content: "-";
+	display: inline-block;
+	padding: 0 10px;
+}
+.site-global-nav a {
+	color: #fff;
+}

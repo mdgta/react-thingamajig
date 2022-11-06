@@ -1,0 +1,23 @@
+.App {
+	display: grid;
+	grid: auto auto auto auto / 1fr;
+	grid-template-areas:
+		"nav"
+		"sitecontent"
+		"aside"
+		"footer";
+}
+
+@media (min-width: 300px) {
+
+}
+
+@media (min-width: 600px) {
+	.App {
+		grid: auto auto auto / 1fr 35%;
+		grid-template-areas:
+			"nav nav"
+			"sitecontent aside"
+			"footer footer";
+	}
+}

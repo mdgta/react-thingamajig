@@ -1,0 +1,5 @@
+.site-global-footer {
+	grid-area: footer;
+	padding: 7px;
+	background: #ccc;
+}

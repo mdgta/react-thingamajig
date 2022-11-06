@@ -1,0 +1,5 @@
+.site-global-sitecontent {
+	grid-area: sitecontent;
+	padding: 10px 20px;
+	background: #cfd;
+}

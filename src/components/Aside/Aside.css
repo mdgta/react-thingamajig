@@ -1,0 +1,4 @@
+.site-global-aside {
+	grid-area: aside;
+	background: #fcc;
+}

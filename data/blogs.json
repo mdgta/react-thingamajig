@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Some title",
+      "content": "Some content text",
+      "date": 1667656015674,
+      "author": "Some author"
+    },
+    {
+      "title": "qqq",
+      "content": "",
+      "date": 1667731533927,
+      "author": "testAuthor",
+      "id": 2
+    },
+    {
+      "title": "a",
+      "content": "",
+      "date": 1667732511542,
+      "author": "testAuthor",
+      "id": 3
+    },
+    {
+      "title": "awwww",
+      "content": "",
+      "date": 1667732548144,
+      "author": "testAuthor",
+      "id": 4
+    },
+    {
+      "title": "Supercalifragilisticexpialidocious",
+      "content": "Some irrelevant and superfluous content that has nothing to do with the actual content of this blog.\n\nAny attempt to make this blog meaningful will be met with severe consequences. Starting tomorrow.",
+      "date": 1667740258662,
+      "author": "testAuthor",
+      "id": 5
+    },
+    {
+      "title": "seeing if a post refreshes the list in Blogs",
+      "content": "after creating a new blog",
+      "date": 1667740411901,
+      "author": "testAuthor",
+      "id": 6
+    }
+  ]
+}
